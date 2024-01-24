@@ -170,7 +170,7 @@ socialNetworkQueries.findPotentialInterests(0.5)
 
 ## Setup
 
-Follow these steps if you are using zip/git mode (i.e. not available inside Devskiller in-browser IDE):
+Follow these steps if you are using zip/git mode (i.e. not available inside in-browser IDE):
 
 1. `npm install` – install dependencies
 2. `npm test` – run all tests (this will be used to evaluate your solutions)
