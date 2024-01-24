@@ -1,5 +1,5 @@
 {
-  "name": "devskiller-react-conference-admin-panel",
+  "name": "react-conference-admin-panel",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

@@ -1,7 +1,7 @@
 {
-  "name": "devskiller-javascript-social-media-query-interests-nodejs",
+  "name": "javascript-social-media-query-interests-nodejs",
   "private": true,
-  "author": "Devskiller",
+  "author": "Juan Quintero",
   "scripts": {
     "test": "babel-node test",
     "test:watch": "chokidar \"**/*.js\" -c \"npm test\" --silent --initial --ignore node_modules"
